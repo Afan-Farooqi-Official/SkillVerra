@@ -1,0 +1,94 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.whatsappBtn {
+    padding: 10px 18px;
+    border: 1px solid #27AE60;
+    color: #27AE60;
+    font-size: 16px;
+}
+
+.whatsappBtn {
+    color: #27AE60;
+}
+
+.whatsappBtn:hover {
+    background-color: #27AE60;
+    color: white;
+}
+
+.callBtn {
+    padding: 10px 18px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.bannerContant h1 {
+    font-weight: 700;
+    font-size: 52px;
+}
+
+.bannerContant span {
+    color: #2699FB;
+    background: url('../images/line.png') no-repeat bottom;
+}
+
+.bannerContant p {
+    font-size: 22px;
+
+}
+
+.bannerContant ul {
+    list-style: none;
+    padding: 0;
+}
+
+.bannerContant ul li {
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.bannerContant ul li i {
+    padding-right: 40px;
+    color: #2699FB;
+}
+
+.bannerContentBtn button {
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid #D0D5DD;
+    padding: 16px 0px;
+}
+
+.bannerContentBtn button:first-child {
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    color: #FFFFFF;
+}
+
+.bannerForm {
+    padding: 40px;
+    box-shadow: 0px 4px 24px rgba(16, 24, 40, 0.1);
+    border-radius: 8px;
+    background: #FFFFFF;
+}
+
+.bannerForm h3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bannerForm p {
+    font-size: 14px;
+    color: #475467;
+    margin-bottom: 30px;
+}
+
+.registerBtn {
+    border-radius: 10px;
+    border: 1px solid #D0D5DD;
+    padding: 16px 48px;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    color: #FFFFFF;
+}

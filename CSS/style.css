@@ -69,7 +69,6 @@
 
 .bannerForm {
     padding: 40px;
-    box-shadow: 0px 4px 24px rgba(16, 24, 40, 0.1);
     border-radius: 8px;
     background: #FFFFFF;
 }
@@ -91,4 +90,42 @@
     padding: 16px 48px;
     background: linear-gradient(to right, #0ACEFE, #2699FB);
     color: #FFFFFF;
+}
+
+.studentCount h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+.studentCount p {
+    font-size: 16px;
+    color: #43505B;
+    line-height: 24px;
+}
+
+.courseHighlight h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.courseHighlight p {
+    font-size: 18px;
+}
+
+.highlightDetail h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.highlightDetail p {
+    font-size: 15px;
+    color: #475467;
+}
+
+.freeCourseBtn {
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
 }

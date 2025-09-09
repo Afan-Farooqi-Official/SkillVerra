@@ -69,4 +69,8 @@
     .courseHighlight p {
         font-size: 16px;
     }
+
+    .highlightDetail p {
+        font-size: 12px;
+    }
 }

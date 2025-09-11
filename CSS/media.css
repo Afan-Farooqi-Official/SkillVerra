@@ -73,4 +73,13 @@
     .highlightDetail p {
         font-size: 12px;
     }
+
+    .careerHeadingDiv h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .careerHeadingDiv p {
+        font-size: 14px;
+    }
 }

@@ -160,3 +160,15 @@
 .careerdiv p {
     font-size: 15px;
 }
+
+.tabItemContent ul {
+    list-style: none;
+}
+
+.tabSlider .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #F2F4F7;
+    color: #0A2134;
+    border-bottom: 2px solid #2699FB;
+    border-radius: 0;
+}

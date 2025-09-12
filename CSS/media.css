@@ -82,4 +82,9 @@
     .careerHeadingDiv p {
         font-size: 14px;
     }
+
+    .footerLogo img {
+        width: 200px;
+        height: auto;
+    }
 }
